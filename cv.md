@@ -47,6 +47,7 @@ checkboxElement.forEach((checkbox, index) => {
 * **Belarusian National Technical University**
   * Software Engineering
 
+
 ## Languages
 * Russian - Native
 * English - A1~A2(Severe case..)
